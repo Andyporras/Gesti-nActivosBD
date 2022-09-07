@@ -1,0 +1,10 @@
+Bases de datos 1
+------------------------
+• Semestre: 2
+• Año lectivo: 2022
+• Estudiantes:
+	Andy Porras Romero - 2021067834
+	Milton Barrera Zepeda - 2021091205
+• Número de entrega: 1
+• Fecha de entrega: 9/6/2022
+• Estatus de entrega: regular
